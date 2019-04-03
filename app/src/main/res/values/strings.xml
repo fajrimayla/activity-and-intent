@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tugas3</string>
+    <string name="greet">Whats on your mind today?</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="click_me">Click Me</string>
+    <string name="open_galery">Open Galery</string>
+    <string name="share">Share</string>
+    <string name="type_something">Type something...</string>
+    <string name="back">Back</string>
+</resources>
